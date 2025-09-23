@@ -1,6 +1,6 @@
 # nim-tree-drawer
 
-Code qui dessine l'arbre des possibilités pour le jeu de nim
+Code qui dessine l'arbre des possibilités pour le jeu de nim avec des bulles sous la forme (allumettes restantes, joueur actuel)
 
 ---
 
