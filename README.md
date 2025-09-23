@@ -2,12 +2,12 @@
 
 Code qui dessine l'arbre des possibilités pour le jeu de nim
 
---
+---
 
 Exemple d'arbre avec répétitions tronquées :
 ![tronque](render/6-tronque.png)
 
---
+---
 
 Exemple d'arbre complet :
 ![complet](render/6-complet.png)
