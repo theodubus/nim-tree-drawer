@@ -2,6 +2,10 @@
 
 Code qui dessine l'arbre des possibilités pour le jeu de nim avec des bulles sous la forme (allumettes restantes, joueur actuel)
 
+
+<img width="1366" height="768" alt="apps 54764 9007199266387342 3183a9e3-fd2f-4afc-88d4-387cce2e5a75" src="https://github.com/user-attachments/assets/89249a6e-e6f5-4006-b839-c3f54938038d" />
+
+
 ---
 
 Exemple d'arbre avec répétitions tronquées :
