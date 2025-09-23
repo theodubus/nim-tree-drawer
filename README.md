@@ -2,6 +2,12 @@
 
 Code qui dessine l'arbre des possibilités pour le jeu de nim
 
+Exemple d'arbre avec répétitions tronquées :
+![tronque](render/6-tronque.png)
+
+Exemple d'arbre complet :
+![complet](render/6-complet.png)
+
 <div align="right" style="display: flex">
     <img src="https://visitor-badge.glitch.me/badge?page_id=Th3o-D/nim-tree-drawer&left_color=gray&right_color=blue" height="20"/>
     <a href="https://github.com/theodubus" alt="https://github.com/theodubus"><img height="20" style="border-radius: 5px" src="https://img.shields.io/static/v1?style=for-the-badge&label=CREE%20PAR&message=theo d&color=1182c2"></a>
